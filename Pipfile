@@ -9,6 +9,7 @@ functions-framework = "*"
 fasttext = "*"
 google-cloud-storage = "*"
 transformers = {extras = ["torch"], version = "*"}
+certifi = "*"
 
 [dev-packages]
 black = "*"
